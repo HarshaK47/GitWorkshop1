@@ -11,4 +11,8 @@ const superheroes = [
     }
 ];
 
+superheroes.map((hero)=>{
+    console.log(hero);
+})
+
 
