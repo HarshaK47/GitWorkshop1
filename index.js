@@ -17,6 +17,8 @@ const superheroes = [
 
 superheroes.map((hero)=>{
     console.log(hero);
-})
+});
+
+console.log("Hola Amigo");
 
 
