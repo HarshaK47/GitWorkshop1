@@ -6,6 +6,10 @@ const superheroes = [
         age: 20
     },
     {
+        name: "Wolverine",
+        age: 21
+    },
+    {
         name: "Batman",
         age: 30
     }
